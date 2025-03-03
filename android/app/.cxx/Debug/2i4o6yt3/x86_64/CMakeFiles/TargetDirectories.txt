@@ -1,0 +1,2 @@
+/Users/rahil/StudioProjects/si_assessment/android/app/.cxx/Debug/2i4o6yt3/x86_64/CMakeFiles/edit_cache.dir
+/Users/rahil/StudioProjects/si_assessment/android/app/.cxx/Debug/2i4o6yt3/x86_64/CMakeFiles/rebuild_cache.dir

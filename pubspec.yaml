@@ -39,7 +39,7 @@ dependencies:
   http: ^1.3.0
   flutter_riverpod: ^2.6.1
   shared_preferences: ^2.5.2
-  syncfusion_flutter_charts: ^28.2.7
+  syncfusion_flutter_charts: any
 
 dev_dependencies:
   flutter_test:
